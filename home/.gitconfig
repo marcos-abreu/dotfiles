@@ -1,0 +1,7 @@
+[user]
+	name = Marcos Abreu
+	email = abreu.marcos@google.com
+[color]
+	ui = true
+[push]
+	default = current
